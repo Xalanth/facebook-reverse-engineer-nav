@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/facebook-reverse-engineer-nav/static/css/main.25101aa2.chunk.css",
+    "main.js": "/facebook-reverse-engineer-nav/static/js/main.0b6be080.chunk.js",
+    "main.js.map": "/facebook-reverse-engineer-nav/static/js/main.0b6be080.chunk.js.map",
+    "runtime-main.js": "/facebook-reverse-engineer-nav/static/js/runtime-main.0d7a8d5b.js",
+    "runtime-main.js.map": "/facebook-reverse-engineer-nav/static/js/runtime-main.0d7a8d5b.js.map",
+    "static/js/2.78d51c44.chunk.js": "/facebook-reverse-engineer-nav/static/js/2.78d51c44.chunk.js",
+    "static/js/2.78d51c44.chunk.js.map": "/facebook-reverse-engineer-nav/static/js/2.78d51c44.chunk.js.map",
+    "index.html": "/facebook-reverse-engineer-nav/index.html",
+    "precache-manifest.0eb61150a746960e6dc006f8f0b79c9e.js": "/facebook-reverse-engineer-nav/precache-manifest.0eb61150a746960e6dc006f8f0b79c9e.js",
+    "service-worker.js": "/facebook-reverse-engineer-nav/service-worker.js",
+    "static/css/main.25101aa2.chunk.css.map": "/facebook-reverse-engineer-nav/static/css/main.25101aa2.chunk.css.map",
+    "static/js/2.78d51c44.chunk.js.LICENSE.txt": "/facebook-reverse-engineer-nav/static/js/2.78d51c44.chunk.js.LICENSE.txt",
+    "static/media/arrow.48ae6434.svg": "/facebook-reverse-engineer-nav/static/media/arrow.48ae6434.svg",
+    "static/media/bell.e9fd40a7.svg": "/facebook-reverse-engineer-nav/static/media/bell.e9fd40a7.svg",
+    "static/media/bolt.681afa2e.svg": "/facebook-reverse-engineer-nav/static/media/bolt.681afa2e.svg",
+    "static/media/caret.615e14d1.svg": "/facebook-reverse-engineer-nav/static/media/caret.615e14d1.svg",
+    "static/media/chevron.efbb2bd6.svg": "/facebook-reverse-engineer-nav/static/media/chevron.efbb2bd6.svg",
+    "static/media/cog.993f0cc0.svg": "/facebook-reverse-engineer-nav/static/media/cog.993f0cc0.svg",
+    "static/media/messenger.9fdc8d67.svg": "/facebook-reverse-engineer-nav/static/media/messenger.9fdc8d67.svg",
+    "static/media/plus.9311af2e.svg": "/facebook-reverse-engineer-nav/static/media/plus.9311af2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d7a8d5b.js",
+    "static/js/2.78d51c44.chunk.js",
+    "static/css/main.25101aa2.chunk.css",
+    "static/js/main.0b6be080.chunk.js"
+  ]
+}
